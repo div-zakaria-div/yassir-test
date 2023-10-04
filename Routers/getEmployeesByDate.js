@@ -5,7 +5,7 @@
 
 const express = require("express");
 
-// Import the controller function for adding employee requests
+// Import the controller function for getting employee requests
 
 const {
   getEmployeesByDateCreated,

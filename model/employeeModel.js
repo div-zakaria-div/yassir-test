@@ -21,7 +21,6 @@ const employeeschema = mongoose.Schema(
   }
   //{ timestamps: true }
 );
-/////////////////////////////////////////////////////////////checkin anad chek out
 
 // Create the model for the Employee collection
 const modelEMPLOYEE = mongoose.model("Employee", employeeschema);
