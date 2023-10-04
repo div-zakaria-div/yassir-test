@@ -1,4 +1,4 @@
-"#project-yassir"
+
                                        Biometric Time Clock API
                          Une API RESTful en Node.js pour gérer une horloge biométrique.
                         
@@ -83,10 +83,10 @@ Copy
 Pour visualiser la base de données dans MongoDB Compass, utilisez la chaîne de connexion suivante :
 
 Copy
-mongodb+srv://ZAKARIAYASSIR:n8pnscag@cluster1.n5g8a7m.mongodb.net/?retryWrites=true&w=majority
+"mongodb+srv://ZAKARIAYASSIR:n8pnscag@cluster1.n5g8a7m.mongodb.net/?retryWrites=true&w=majority"
 
 
-Assurez-vous d'avoir MongoDB Compass installé sur votre machine.
+
 
 
                          
