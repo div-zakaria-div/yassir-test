@@ -1,14 +1,20 @@
 
-                                       Biometric Time Clock API
-                         Une API RESTful en Node.js pour gérer une horloge biométrique.
+                                       Biometric Time Clock API     
+                         Une API RESTful en Node.js pour gérer une horloge biométrique.      
                         
                                                     Introduction
                                                     
 Ce projet consiste en une API Node.js permettant de gérer une horloge biométrique. L'API offre les fonctionnalités suivantes :
    
-1-Ajouter un employé
-2-Récupérer tous les employés
+1-Ajouter un employé  
+
+
+2-Récupérer tous les employés  
+
+
 3-Récupérer les employés en fonction de leur date de création
+
+
 4-Enregistrer l'heure d'arrivée d'un employé (Check-in)
 5-Enregistrer l'heure de départ d'un employé (Check-out) avec calcul de la durée de travail
 
