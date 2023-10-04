@@ -81,8 +81,11 @@ Copy
                                               Connexion à MongoDB Compass
                                               
 Pour visualiser la base de données dans MongoDB Compass, utilisez la chaîne de connexion suivante :
+
 Copy
 mongodb+srv://ZAKARIAYASSIR:n8pnscag@cluster1.n5g8a7m.mongodb.net/?retryWrites=true&w=majority
+
+
 Assurez-vous d'avoir MongoDB Compass installé sur votre machine.
 
 
