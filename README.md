@@ -84,10 +84,20 @@ Copy
 
 {
   "_id": "1996",
+
+  
   "lastName": "mekhalfia",
+
+  
   "firstName": "zakaria",
+
+  
   "dateCreated": "2023-5-4",
+
+  
   "department": "IT"
+
+  
 }
 
 
@@ -136,8 +146,14 @@ Copy
 
 
 {
+
+
   "employeeID": "212",
+
+  
   "commentCheckout": "votre_commentaire_de_check-out"
+
+  
 }
 
 
@@ -159,8 +175,14 @@ Copy
 
 
 {
+
+
   "employeeID": "212",
+
+
   "commentCheckout": "votre_commentaire_de_check-out"
+
+  
 }
 
 
